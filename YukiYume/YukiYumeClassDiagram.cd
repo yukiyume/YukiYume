@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="YukiYume.Caching.AspNetCache" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Caching\AspNetCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Caching.Cache" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABABAAABAAAAAAAAAAAAAAAAQAAAIA=</HashCode>
+      <FileName>Caching\Cache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Caching.DictionaryCache" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAABAAAAABAAAAAAAAIAAAAAAAQAAQAA=</HashCode>
+      <FileName>Caching\DictionaryCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Caching.MemcachedCache" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAQAAAAQ=</HashCode>
+      <FileName>Caching\MemcachedCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Caching.VelocityCache" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAABAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Caching\VelocityCache.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Configuration.BaseElementCollection&lt;T&gt;" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAIBAACAAAAAAAAAABAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Configuration\BaseElementCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.ConvertWrapper" Collapsed="true">
+    <Position X="20.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAIAAAAAgAAAAAAAAAJACoAKAAEI=</HashCode>
+      <FileName>ConvertWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.CultureInfoWrapper" Collapsed="true">
+    <Position X="22" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAg=</HashCode>
+      <FileName>CultureInfoWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.IEnumerableExtensions" Collapsed="true">
+    <Position X="23.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIAACAAEBAAAAAIAAAAAAAAAAAAAAAAAAAAEgAAAAA=</HashCode>
+      <FileName>IEnumerableExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Inflector" Collapsed="true">
+    <Position X="16.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAKJAAgAASAAAAASQAAAAIAAACAAAgAAAEAAAQAAAAA=</HashCode>
+      <FileName>Inflector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.InflectorRuleReplacement" Collapsed="true">
+    <Position X="18.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>InflectorRuleReplacement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.NumberExtensions" Collapsed="true">
+    <Position X="18.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ggAAAAABAAAAAgAAAAAAACQAAAAAAQIAIAAAAAAAAAA=</HashCode>
+      <FileName>NumberExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Singleton&lt;T&gt;" Collapsed="true">
+    <Position X="22" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Singleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.StringExtensions" Collapsed="true">
+    <Position X="23.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEABAAAQAAAAAAAAAIAAAAgAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>StringExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonArray" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEAAAAAAAABAECAAAAAQIAAAAAAAAAAQgAAAAQCA=</HashCode>
+      <FileName>Json\JsonArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.JsonBoolean" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAACAIAAEAAAAAAAAAAAAQAAAAAggAAAAAAA=</HashCode>
+      <FileName>Json\JsonBoolean.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.JsonDeserializer" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAKgAAAAAAAgAACAABJAQAAAAAAAEAAAAA=</HashCode>
+      <FileName>Json\JsonDeserializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonException" Collapsed="true">
+    <Position X="16.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\JsonException.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonIgnoreAttribute" Collapsed="true">
+    <Position X="18.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\JsonIgnoreAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonLexicalAnalyzer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASQAAAAAECAEjAgAkQkIQAEgBAQAAkAAgAkAAAAAAAA=</HashCode>
+      <FileName>Json\JsonLexicalAnalyzer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.JsonNameAttribute" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\JsonNameAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonNull" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\JsonNull.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.JsonNumber" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAIBAAEAAAIBEAAAAAAAEgAAABgAAAAAAA=</HashCode>
+      <FileName>Json\JsonNumber.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.JsonObject" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAABBECAAAAAAAAAAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Json\JsonObject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.JsonParser" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAgAABAgAEAECwEAAICAAAIABwAAAAEEgFAAAgEACA=</HashCode>
+      <FileName>Json\JsonParser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonSerializer" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAEAAAAAAAAAACAAkAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Json\JsonSerializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.JsonString" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAEAAAAAAAAAAAAAAAAIAIhAAAAAAA=</HashCode>
+      <FileName>Json\JsonString.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="YukiYume.Json.ParseArray" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\ParseArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParseElement" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Json\ParseElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParseItem" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\ParseItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParseMember" Collapsed="true">
+    <Position X="14.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\ParseMember.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParseObject" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\ParseObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParsePair" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Json\ParsePair.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParseRoot" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\ParseRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.ParseValue" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Json\ParseValue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Json.SerializationHelper" Collapsed="true">
+    <Position X="20.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAQAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Json\SerializationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Logging.Log4NetExtensions" Collapsed="true">
+    <Position X="16.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAYAAAAAAAAAAAAAAAAEAAAAAAEAEAAA=</HashCode>
+      <FileName>Logging\Log4NetExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="YukiYume.Security.AesWrapper" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="16.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAEAAEQAABgAAAAgAAAAAAAAEAAAAACAAE=</HashCode>
+      <FileName>Security\AesWrapper.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="YukiYume.Pair&lt;T1, T2&gt;" Collapsed="true">
+    <Position X="16.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pair.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="YukiYume.Configuration.INameConfigurationElement" Collapsed="true">
+    <Position X="18.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Configuration\INameConfigurationElement.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="YukiYume.Json.IJsonValue" Collapsed="true">
+    <Position X="16.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Json\IJsonValue.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="YukiYume.Json.JsonLexicalType" Collapsed="true">
+    <Position X="16.75" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACCAAQAAQEAAAAAAAAAAAAAEAAoAAAAABMg=</HashCode>
+      <FileName>Json\JsonLexicalAnalyzer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
