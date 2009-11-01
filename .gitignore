@@ -6,3 +6,9 @@
 /YukiYume.Tests/bin/
 /YukiYume.Tests/obj/
 /YukiYume.Tests/YukiYume.Tests.csproj.user
+/Lib/Enyim.Caching.pdb
+/Lib/Enyim.Caching.XML
+/Lib/log4net.xml
+/Lib/Ninject.Core.pdb
+/Lib/Ninject.Core.xml
+/Lib/nunit.framework.xml
