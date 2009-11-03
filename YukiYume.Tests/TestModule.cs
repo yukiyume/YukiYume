@@ -27,14 +27,14 @@
 #region using
 
 using System;
-using Ninject.Core;
 using YukiYume.Caching;
+using Ninject.Modules;
 
 #endregion
 
 namespace YukiYume.Tests
 {
-    public class TestModule : StandardModule
+    public class TestModule : NinjectModule
     {
         public override void Load()
         {

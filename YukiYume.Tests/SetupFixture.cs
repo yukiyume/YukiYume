@@ -27,7 +27,7 @@
 #region using
 
 using System;
-using Ninject.Core;
+using Ninject;
 using NUnit.Framework;
 
 #endregion
@@ -40,7 +40,7 @@ namespace YukiYume.Tests
     [SetUpFixture]
     public class SetupFixture
     {
-        public static StandardKernel Kernel { get; set; }
+        public static IKernel Kernel { get; set; }
 
         [SetUp]
         public void Setup()

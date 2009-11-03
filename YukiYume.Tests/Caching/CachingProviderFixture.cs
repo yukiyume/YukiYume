@@ -30,6 +30,7 @@ using System;
 using System.Threading;
 using NUnit.Framework;
 using YukiYume.Caching;
+using Ninject;
 
 #endregion
 
